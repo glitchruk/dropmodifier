@@ -1,0 +1,10 @@
+name: DropModifier
+version: 0.1.0
+main: uk.glitchr.dropmodifier.DropModifierPlugin
+description: A plugin to modify the drops of blocks.
+author: GlitchR
+api-version: '1.20'
+commands:
+  drops:
+    description: Shows the drops of a block.
+    usage: /<command> [get|set|remove] <block> (<drop_chance>)
