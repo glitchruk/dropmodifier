@@ -4,7 +4,7 @@ A simple [PaperMC](https://papermc.io/) plugin that allows you to modify the dro
 
 ## Installation
 
-1. Download the plugin from the [releases page](/releases)
+1. Download the plugin from the [releases page](https://github.com/glitchruk/dropmodifier/releases)
 2. Place the plugin in your `plugins` folder
 3. Restart your server
 
